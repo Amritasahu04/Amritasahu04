@@ -2,6 +2,8 @@
 
   ## **Aspiring AI & Cybersecurity Enthusiast**  
 
+  ![Profile Views](https://komarev.com/ghpvc/?username=Amritasahu04&style=flat-square) 
+
 ---
 
 ## 👩‍💻 About Me:
