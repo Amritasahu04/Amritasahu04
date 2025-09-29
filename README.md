@@ -27,7 +27,7 @@
 ---
 ### 🌐 Socials
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/amrita-sahu-5947aa2a3/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
