@@ -34,7 +34,10 @@
 
 ---
 ## 🏆 GitHub Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amritasahu04&theme=radical&no-frame=true&no-bg=false&margin-w=15" />
+</p>
+
 
 ---
 
