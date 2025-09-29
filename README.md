@@ -13,10 +13,14 @@
 ---
 
 ## 🔗 Connect with me:
-- 🛠️ I’m currently working on **Cognitia**  
+- 🛠️ I’m currently working on **Kala-Setu**  
 - 🌱 I’m currently learning **SpringBoot & Large Vision Models**  
 - 🤝 I’m looking to collaborate on ****    
 - 📫 Reach me at: [amritasahu490@gmail.com](mailto:amritasahu490@gmail.com)  
+
+---
+## 🏆 GitHub Trophies
+![trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=15)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-sahu-5947aa2a3/)
