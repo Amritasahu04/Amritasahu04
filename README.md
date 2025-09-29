@@ -31,20 +31,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amritaaa._.s)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amritasahu490@gmail.com)  
 
-
----
-### 🛠 Tech Stack
-
-<p align="center">
-  <!-- MERN Stack -->
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack" width="50" height="50"/>
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,js" alt="Programming Languages" width="50" height="50"/>
-  <!-- Design & UI/UX -->
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
-  <!-- Data Science / ML -->
-  <img src="https://skillicons.dev/icons?i=scikitlearn,numpy,pandas,tensorflow" alt="Data Science & ML" width="50" height="50"/>
-</p>
 ---
 ## 🏆 GitHub Trophies
 <p align="center">
