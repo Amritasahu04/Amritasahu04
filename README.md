@@ -1,11 +1,11 @@
-# Hi there, I'm Amrita! 🌷  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoid&pause=1000&width=435&lines=Hi+there%2C+This+is+Amrita!+%F0%9F%8C%B7)](https://git.io/typing-svg)
 
 **Impactful Developer | Designer | Dreamer**  
 
 ---
 
 ## 👩‍💻 About Me:
-- 🌱 Currently learning ****  
+- 🌱 Currently learning **MERN Development**  
 - 📚 Exploring **Red-Hat Hacking/ Linux security (ethical)**
 - 💬 Ask me about AI/ML, Frontend Development and Interactive Web Animations Projects 
 - 🧩 Love balancing studies with side projects  
