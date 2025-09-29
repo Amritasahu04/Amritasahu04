@@ -25,7 +25,14 @@
 - 📫 Reach me at: [amritasahu490@gmail.com](mailto:amritasahu490@gmail.com)  
 
 ---
+### Techstack
 
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,js,python,kotlin,java,tailwindcss,tensorflow,scikit,pandas,numpy,mongodb,nodejs,expressjs,postgres,mysql" alt="skills" />
+  </a>
+</p>
+---
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-sahu-5947aa2a3/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amritaaa._.s)
