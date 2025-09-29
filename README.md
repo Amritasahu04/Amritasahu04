@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Monoid&weight=900&size=39&pause=1000&width=600&lines=Hi+there%2C+This+is+Amrita!" />
   </a>
   <br>
-  <p align="center"> <h3> <b>Aspiring AI & Cybersecurity Enthusiast</b> </h3> </p>
+  <h3 align="center"> <b>Aspiring AI & Cybersecurity Enthusiast</b> </h3>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Amritasahu04&style=flat-square" />
 </p>
