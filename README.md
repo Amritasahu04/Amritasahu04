@@ -1,4 +1,5 @@
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoid&pause=1000&width=435&lines=Hi+there%2C+This+is+Amrita!+)](https://git.io/typing-svg) \n ## **Aspiring AI & Cybersecurity Enthusiast**  
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoid&pause=1000&width=435&lines=Hi+there%2C+This+is+Amrita!+)](https://git.io/typing-svg) 
+ ## **Aspiring AI & Cybersecurity Enthusiast**  
   ![Profile Views](https://komarev.com/ghpvc/?username=Amritasahu04&style=flat-square) 
 
 ---
