@@ -33,6 +33,19 @@
 
 
 ---
+### 🛠 Tech Stack
+
+<p align="center">
+  <!-- MERN Stack -->
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack" width="50" height="50"/>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,js" alt="Programming Languages" width="50" height="50"/>
+  <!-- Design & UI/UX -->
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
+  <!-- Data Science / ML -->
+  <img src="https://skillicons.dev/icons?i=scikitlearn,numpy,pandas,tensorflow" alt="Data Science & ML" width="50" height="50"/>
+</p>
+---
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Amritasahu04&theme=radical&no-frame=true&no-bg=false&margin-w=15" />
