@@ -25,14 +25,6 @@
 - 📫 Reach me at: [amritasahu490@gmail.com](mailto:amritasahu490@gmail.com)  
 
 ---
-### Techstack
-
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,js,python,kotlin,java,tailwindcss,tensorflow,scikit,pandas,numpy,mongodb,nodejs,expressjs,postgres,mysql" alt="skills" />
-  </a>
-</p>
----
 ### 🌐 Socials
 
 <p align="center">
