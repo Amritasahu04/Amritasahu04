@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on  Academic + personal projects to level up my dev skills<br>👯 I’m looking to collaborate on Beginner-friendly open-source projects & UI/UX + frontend web apps  <br>🤝 I’m looking for help with Open-source contribution workflows<br>🌱 I’m currently learning<br>💬 Ask me about FinTech basics and modern payment systems.<br>⚡ Fun fact: I fix bugs by staring at the screen until it feels guilty.
+➺ I’m currently working on  Academic + personal projects to level up my dev skills<br>➺ I’m looking to collaborate on Beginner-friendly open-source projects & UI/UX + frontend web apps  <br>➺ I’m looking for help with Open-source contribution workflows<br>➺ I’m currently learning<br>➺ Ask me about FinTech basics and modern payment systems.<br>➺ Fun fact: I fix bugs by staring at the screen until it feels guilty.
 
 
 ## 🌐 Socials:
